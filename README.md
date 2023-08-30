@@ -2,11 +2,10 @@
 
 <h3>👨🏻‍💻 About Me</h3>
 
-💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks\
+💡 &nbsp; I like to explore new technologies and develop software solutions to complex problems\
 🎓 &nbsp; I'm currently studying Computer Engineering at McMaster University\
-🛠️ &nbsp; I am currently working on finishing the [Neetcode 150](https://neetcode.io/roadmap) and developing [Anisync](https://github.com/RajPandya737/Anisync)\
+🛠️ &nbsp; I am currently working on finishing the [Neetcode 150](https://neetcode.io/roadmap) and working on my personal portfolio website\
 🌱 &nbsp; As of right now, I am learning full stack development and my next goal is to learn data analysis\
-🧑&nbsp; My next project will likely be a portfolio website\
 ✍️ &nbsp; In my free time, I enjoy Graphic Design and Gaming\
 ✉️ &nbsp; You can find my email and linkedin to the left, contact me any way you like!
 
