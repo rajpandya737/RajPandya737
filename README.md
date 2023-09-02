@@ -4,9 +4,9 @@
 
 💡 &nbsp; I like to explore new technologies and develop software solutions to complex problems\
 🎓 &nbsp; I'm currently studying Computer Engineering at McMaster University\
-🛠️ &nbsp; I am currently working on finishing the [Neetcode 150](https://neetcode.io/roadmap) and working on my personal portfolio website\
+🛠️ &nbsp; I am currently working on finishing the [Neetcode 150](https://neetcode.io/roadmap) and my personal portfolio website\
 🌱 &nbsp; As of right now, I am learning full stack development and my next goal is to learn data analysis\
-✍️ &nbsp; In my free time, I enjoy Graphic Design and Gaming\
+✍️ &nbsp; In my free time, I enjoy Graphic Design, Gaming, and Chess!\
 ✉️ &nbsp; You can find my email and linkedin to the left, contact me any way you like!
 
 
