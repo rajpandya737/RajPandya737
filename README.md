@@ -7,7 +7,7 @@
 🛠️ &nbsp; I am currently working on finishing the [Neetcode 150](https://neetcode.io/roadmap) and developing a website with tesseract OCR\
 🌱 &nbsp; As of right now, I am learning full stack development\
 ✍️ &nbsp; In my free time, I enjoy Graphic Design, Gaming, and Chess!\
-✉️ &nbsp; You can find my email and linkedin to the left, contact me any way you like!
+✉️ &nbsp; You can find my email and linkedin to the left, and check out my website [rajpandya.me](https://rajpandya.me/)
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
