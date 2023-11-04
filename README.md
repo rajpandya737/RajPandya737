@@ -4,9 +4,9 @@
 
 💡 &nbsp; I like to explore new technologies and develop software solutions to complex problems\
 🎓 &nbsp; I'm currently studying Computer Engineering at McMaster University\
-🛠️ &nbsp; I am currently working on finishing the [Neetcode 150](https://neetcode.io/roadmap) and developing a website with tesseract OCR\
-🌱 &nbsp; As of right now, I am learning full stack development\
-✍️ &nbsp; In my free time, I enjoy Graphic Design, Gaming, and Chess!\
+🛠️ &nbsp; I am part of DeGroote Finance Investment Council as a Jr. Quant and McMaster Rocketry as a Controls Engineer\
+🌱 &nbsp; As of right now, I am learning low level programming with C, C++, and Rust\
+✍️ &nbsp; In my free time, I enjoy travelling, doing challenging things, and chess!\
 ✉️ &nbsp; You can find my email and linkedin to the left, and check out my website [rajpandya.me](https://rajpandya.me/)
 
 
