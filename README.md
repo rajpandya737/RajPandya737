@@ -1,13 +1,7 @@
-<h2>👋 Hey there! I'm Raj</h2>
 
-<h3>👨🏻‍💻 About Me</h3>
-
-💡 &nbsp; I like to explore new technologies and develop software solutions to complex problems\
-🎓 &nbsp; I'm currently studying Computer Engineering at McMaster University\
-🛠️ &nbsp; I am part of DeGroote Finance Investment Council as a Jr. Quant and McMaster Rocketry as a Controls Engineer\
-🌱 &nbsp; As of right now, I am learning low level programming with C, C++, and Rust\
-✍️ &nbsp; In my free time, I enjoy travelling, doing challenging things, and chess!\
-✉️ &nbsp; You can find my email and linkedin to the left, and check out my website [rajpandya.me](https://rajpandya.me/)
+🎓 &nbsp; Computer Engineering at McMaster University\
+🛠️ &nbsp; DeGroote Finance Investment Council as a Jr. Quant\
+🌱 &nbsp; Software Engineering Intern @ De Havilland Canada\
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
