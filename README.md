@@ -1,7 +1,7 @@
 
-🎓 &nbsp; Computer Engineering at McMaster University\
-🛠️ &nbsp; DeGroote Finance Investment Council as a Jr. Quant\
-🌱 &nbsp; Software Engineering Intern @ De Havilland Canada\
+🎓 &nbsp; Computer Engineering @ McMaster University\
+🌱 &nbsp; Software Engineering Intern @ De Havilland Canada
+🛠️ &nbsp; Quant Analyst @ DFIC\
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
