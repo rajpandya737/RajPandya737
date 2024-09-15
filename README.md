@@ -1,7 +1,9 @@
 
-🎓 &nbsp; Computer Engineering @ McMaster University\
-🌱 &nbsp; Software Engineering Intern @ De Havilland Canada\
-🛠️ &nbsp; Quant Analyst @ DFIC
+&nbsp; Computer Engineering @ McMaster University\
+&nbsp; Software Engineering Intern @ De Havilland Canada\
+&nbsp; Embedded Software Specialist @ MIST
+&nbsp; Operations Lead @ McMaster Solar Car
+&nbsp; Quant Dev @ DFIC
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
