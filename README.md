@@ -1,7 +1,9 @@
 
 &nbsp; Computer Engineering @ McMaster University\
 &nbsp; Software Engineering Intern @ Ericsson\
-&nbsp; Embedded Software Specialist @ MIST
+&nbsp; Software Specialist @ MIST
+&nbsp; Quant Dev @ DFIC
+&nbsp; Finance Lead @ McMaster Solar Car
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
