@@ -1,7 +1,6 @@
 
 &nbsp; Computer Engineering @ McMaster University\
-&nbsp; Software Engineering Intern @ Ericsson\
-&nbsp; Software Specialist @ MIST\
+&nbsp; Software Engineering Intern @ Wealthsimple\
 &nbsp; Quant Dev @ DFIC\
 &nbsp; Finance Lead @ McMaster Solar Car
 
