@@ -1,6 +1,6 @@
 
 &nbsp; Computer Engineering @ McMaster University\
-&nbsp; Software Engineering Intern @ Wealthsimple\
+&nbsp; Prev @ Wealthsimple, Ericsson, DHC\
 &nbsp; Quant Dev @ DFIC\
 &nbsp; Finance Lead @ McMaster Solar Car
 
