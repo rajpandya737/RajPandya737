@@ -1,11 +1,5 @@
-
 &nbsp; Computer Engineering @ McMaster University\
 &nbsp; Prev @ Wealthsimple, Ericsson, DHC\
-&nbsp; Quant Dev @ DFIC\
-&nbsp; Finance Lead @ McMaster Solar Car
-
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left"> 
