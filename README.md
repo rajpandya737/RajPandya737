@@ -1,5 +1,7 @@
 &nbsp; Computer Engineering @ McMaster University\
-&nbsp; Prev @ Wealthsimple, Ericsson, DHC\
+&nbsp; Incoming @ Meta\
+&nbsp; Prev @ Wealthsimple, Ericsson, DHC
+
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left"> 
