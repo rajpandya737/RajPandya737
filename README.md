@@ -1,5 +1,5 @@
 &nbsp; Computer Engineering @ McMaster University\
-&nbsp; Incoming @ Meta\
+&nbsp; Software Engineer @ Meta\
 &nbsp; Prev @ Wealthsimple, Ericsson, DHC\
 &nbsp; Interested in infrastructure, devops, cloud, and platform engineering
 
