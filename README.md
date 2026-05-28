@@ -11,7 +11,7 @@
     <td align="center" width="96"><a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/></a><br><sub>Python</sub></td>
     <td align="center" width="96"><a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/></a><br><sub>C++</sub></td>
     <td align="center" width="96"><a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/></a><br><sub>TypeScript</sub></td>
-    <td align="center" width="96"><a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/></a><br><sub>Java</sub></td>
+    <td align="center" width="96"><a href="(https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin"/></a><br><sub>Kotlin</sub></td>
     <td align="center" width="96"><a href="https://go.dev"><img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go"/></a><br><sub>Go</sub></td>
   </tr>
   <tr>
